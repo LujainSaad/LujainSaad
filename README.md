@@ -1,7 +1,7 @@
 ```yaml
 name: Lujain Saad
 located_in: Abha, Saudi Arabia
-current_job: Full Stack Developer
+
 education:
   [
     "Bachelor's in Computer Science",
