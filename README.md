@@ -16,7 +16,7 @@ technical_background:
     "Intern - Data Scientist",
     "Intern - Technical Support",
   ]
-  currently_learning: ["Machine Learning, Neural Networks and Deep Learning"]
-2022 Goals: ["Create 20+ ML/DL Projects"]
+currently_learning: ["Machine Learning, Neural Networks and Deep Learning"]
+2022 Goals: ["Create 20+ ML/DL Projects", "Reading 50+ books"]
 hobbies: ["Baking", "Reading"]
 ```
