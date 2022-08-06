@@ -3,7 +3,6 @@ name: Lujain Saad
 located_in: Abha, Saudi Arabia
 education: Bachelor's in Computer Science
 college: King Khalid University
-
 fields_of_interests:
   [
     "Data Science",
@@ -17,8 +16,7 @@ technical_background:
     "Intern - Data Scientist",
     "Intern - Technical Support",
   ]
-  
-currently_learning: ["Machine Learning, Neural Networks and Deep Learning"]
+  currently_learning: ["Machine Learning, Neural Networks and Deep Learning"]
 2022 Goals: ["Create 20+ ML/DL Projects"]
 hobbies: ["Baking", "Reading"]
 ```
