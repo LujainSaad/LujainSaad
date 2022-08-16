@@ -20,3 +20,11 @@ currently_learning: ["Machine Learning, Neural Networks and Deep Learning"]
 2022 Goals: ["Create 20+ ML/DL Projects", "Read 50+ Books"]
 hobbies: ["Baking", "Reading",]
 ```
+
+
+#Hi I'm Lujain
+## CS Student 
+**Langues
+1. C++
+2. Java
+3. Python
