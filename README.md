@@ -22,9 +22,3 @@ hobbies: ["Baking", "Reading",]
 ```
 
 
-#Hi I'm Lujain
-## CS Student 
-**Langues
-1. C++
-2. Java
-3. Python
