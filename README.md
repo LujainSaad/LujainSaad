@@ -1,5 +1,5 @@
 ```yaml
-name: Lujain Saad
+name: Lujain
 located_in: Abha, Saudi Arabia
 education: Bachelor's in Computer Science
 college: King Khalid University
