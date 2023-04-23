@@ -1,6 +1,6 @@
 ```yaml
 name: Lujain
-located_in: Saudi Arabia
+located_in: Abha, Saudi Arabia
 education: Bachelor's in Computer Science
 college: King Khalid University
 fields_of_interests:
