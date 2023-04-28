@@ -16,7 +16,7 @@ technical_background:
     "Intern - Data Scientist",
     "Intern - Technical Support",
   ]
-currently_learning: ["Machine Learning, Neural Networks and Deep Learning", "Trading" ]
+currently_learning: ["Machine Learning, Neural Networks and Deep Learning", "Stocks trading" ]
 2023 Goals: ["Create 20+ ML/DL Projects", "Read 50+ Books"]
 hobbies: ["Baking", "Reading"]
 ```
