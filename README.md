@@ -1,6 +1,6 @@
 ```yaml
 name: Lujain
-birthday: 2000-4-11
+birthday: 2000-4-10
 located_in: Abha, Saudi Arabia
 education: Bachelor's in Computer Science
 college: King Khalid University
