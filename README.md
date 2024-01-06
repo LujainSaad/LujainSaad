@@ -18,8 +18,8 @@ technical_background:
     "Intern - Technical Support",
     "IT Engineer"
   ]
-currently_learning: ["Machine Learning", "Neural Networks and Deep Learning" ]
-# 2023 Goals: ["Create 30+ ML/DL Projects", "Read 50+ Books"]
+currently_learning: ["Machine Learning", "Neural Networks and Deep Learning"]
+#2023 Goals: ["Create 30+ ML/DL Projects", "Read 50+ Books"] ✅
 2024 Goals: ["Publish a Research Paper", "Read 50+ Books"]
 hobbies: ["Baking", "Reading"]
 ```
