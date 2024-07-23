@@ -20,6 +20,5 @@ currently_learning: ["App Development", "Ethical Hacking"]
 hobbies: ["Baking", "Reading", "Horse riding"]
 projects:
 ```
-| ([˗ˏˋ Applications ´ˎ˗ ](https://github.com/stars/LujainSaad/lists/ˏˋ-applications-ˎ))       |  ([≡;- ꒰ ° Websites ꒱]()(https://github.com/stars/LujainSaad/lists/websites))  |
+| [˗ˏˋ Applications ˎ˗](https://github.com/stars/LujainSaad/lists/ˏˋ-applications-ˎ) | [≡;- ꒰ ° Websites ꒱](https://github.com/stars/LujainSaad/lists/websites) |
 |-----------|----------------------------|
-
