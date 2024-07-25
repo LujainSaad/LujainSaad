@@ -15,8 +15,8 @@ technical_background:
     "IT Engineer"
   ]
 currently_learning: ["App Development", "Ethical Hacking"]
-2023 Goals: ["Create 30+ ML/DL Projects", "Read 50+ Books"] ☑
-2024 Goals: ["Create and start a commercial App", "Publish a Research Paper", "Read 50+ Books"]
+2023 Goals: ["Create 30+ ML/DL Projects", "Read 50+ Books"] ✓
+2024 Goals: ["Create and start a commercial App", "Read 50+ Books"]
 hobbies: ["Baking", "Reading", "Horse riding"]
 projects: ⤵
 ```
